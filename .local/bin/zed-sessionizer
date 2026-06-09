@@ -1,0 +1,3 @@
+#!/bin/sh
+zed $(find $HOME/my_works $HOME/.config -mindepth 1 -type d | fzf)
+exit
