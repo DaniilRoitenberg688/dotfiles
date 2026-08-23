@@ -11,16 +11,20 @@ TERM = "xterm-256color"
 [font]
 #normal.family = "Anonymice Pro Nerd Font" # Replace with your preferred font
 normal.family = "Caskaydia Mono Nerd Font" # Replace with your preferred font
-normal.style = "Regular"
+normal.style = "SemiBold"
 
 #bold.family = "Anonymice Pro Nerd Font"
 bold.family = "Caskaydia Mono Nerd Font" # Replace with your preferred font
 bold.style = "Bold"
-size = 12.5
+size = 10.5
+
+
+[colors]
+draw_bold_text_with_bright_colors = true
 
 [colors.primary]
 background = '#000000'
 
 [window]
-opacity = 1
+opacity = 0.9
 blur = true

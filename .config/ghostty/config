@@ -1,8 +1,10 @@
 background = #000000
 gtk-titlebar = false
 gtk-single-instance = true
-font-family = "Caskaydia Mono Nerd Font"
-font-size=22
+font-family = "CaskaydiaMono NF Semi Bold"
+font-size=17
+background-opacity = 0.85
+background-blur = 20
 
 # This is the configuration file for Ghostty.
 #

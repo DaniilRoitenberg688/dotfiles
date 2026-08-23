@@ -42,8 +42,7 @@ default_border pixel 6
 
 #set keyboard
 exec --no-startup-id sleep 3
-exec_always --no-startup-id setxkbmap -option "grp:caps_toggle" us,ru
-
+exec_always --no-startup-id setxkbmap -option "grp:caps_toggle,compose:ralt" us,ru
 #background
 exec --no-startup-id "feh --bg-scale $HOME/Pictures/walls/jorno.png"
 
