@@ -3,20 +3,18 @@
 #   "~/.config/alacritty/catppuccin-mocha.toml"
 # ]
 
-    
+
 [env]
 TERM = "xterm-256color"
 
 
 [font]
-#normal.family = "Anonymice Pro Nerd Font" # Replace with your preferred font
-normal.family = "Caskaydia Mono Nerd Font" # Replace with your preferred font
+normal.family = "CaskaydiaCove Nerd Font Mono" # Replace with your preferred font
 normal.style = "SemiBold"
 
-#bold.family = "Anonymice Pro Nerd Font"
-bold.family = "Caskaydia Mono Nerd Font" # Replace with your preferred font
+bold.family = "CaskaydiaCove Nerd Font Mono" # Replace with your preferred font
 bold.style = "Bold"
-size = 10.5
+size = 11.5
 
 
 [colors]
